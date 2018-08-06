@@ -1,4 +1,4 @@
-# PointNet
+# PointNet（pytorch）
 PyTorch Implementation of PointNet paper.  
 The [paper](https://arxiv.org/pdf/1612.00593.pdf).  
 Blog post: [here](https://ceteke.github.io/pointnet/).  
